@@ -1,4 +1,5 @@
 # About Me:
+- Cloud & DevOps Engineer | Azure • Terraform • Kubernetes • CI/CD • Docker • Linux
 - 🌱 I’m currently working on Cloud and DevOps.
 - 🤔 I’m looking for help with building pipelines.
 - 💬 Ask me about cloud.
